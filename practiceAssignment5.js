@@ -6,7 +6,7 @@ given in the comments.
 
 // 1) Create a function named helloWorld that returns the exact phrase:
 // "Hello World!".
-function hellowWorld()
+function helloWorld()
 {
     return "Hello World!";
 }
